@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sebastián Alfano</h1>
-<h3 align="center">I'm currently a student of Information and Communications Technology (ICT) from Argentina. Next year, I'll be starting my career as a Computer Engineer!</h3>
+<h1 align="left">Hi 👋, I'm Sebastián Alfano</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub)]
+
+<h3 align="left">I'm currently a student of Information and Communications Technology (ICT) from Argentina. Next year, I'll be starting my career as a Computer Engineer!</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, Java, SQL, GIT and DevOps**
 
