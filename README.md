@@ -9,8 +9,13 @@
 - 📫 How to reach me **sebastian.alfano@outlook.com**
 
 ## 🙋‍♂️ Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/sebastián alfano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastián alfano" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/sebasti%C3%A1n-alfano/">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/seba-alfano">
+        <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/seba-alfano?style=for-the-badge&logo=github"/>
+    </a>
 </p>
 
 ## 🛠️ Languages and Tools
