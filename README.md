@@ -10,10 +10,10 @@
 
 ## 🙋‍♂️ Connect with me
 <p align="center">
-    <a href="https://www.linkedin.com/in/sebasti%C3%A1n-alfano/">
+    <a href="https://www.linkedin.com/in/sebasti%C3%A1n-alfano/" target="_blank">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
     </a>
-    <a href="https://github.com/seba-alfano">
+    <a href="https://github.com/seba-alfano" target="_blank">
         <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/seba-alfano?style=for-the-badge&logo=github"/>
     </a>
 </p>
