@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+my+GitHub)
 
-<h3 align="center">I'm currently a student of Information and Communications Technology (ICT) from Argentina. Next year, I'll be starting my degree in Computer Engineer!</h3>
+<h3 align="center">I'm currently a student of Information and Communications Technology (ICT) from Argentina. Next year, I'll be starting my degree in Computer Engineering!</h3>
 
 - 🌱 I’m learning **HTML, CSS, Java, SQL, GIT and DevOps**
 
