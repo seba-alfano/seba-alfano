@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm an Information and Communications Technology (ICT) technician from Argentina, currently studying Software Engineering!</h3>
 
-- 🌱 I’m learning **HTML, CSS, Javascript, NODEJS, PHP, SQL and GIT**
+- 🌱 I’m learning **HTML, CSS, Javascript, Node.js, PHP, SQL and GIT**
 
 - 📫 How to reach me **sebastian.alfano@outlook.com**
 
